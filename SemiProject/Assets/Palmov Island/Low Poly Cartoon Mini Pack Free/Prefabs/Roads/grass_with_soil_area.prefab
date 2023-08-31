@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4184025219490011064}
   - component: {fileID: 2158441986488181618}
   - component: {fileID: 7299323425224326911}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: grass_with_soil_area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
